@@ -1,3 +1,2 @@
-from .explorer import SchemaExplorer
+from .explorer import SchemaValidator, SchemaExplorer
 from .generator import SchemaGenerator
-from .validator import SchemaValidator
